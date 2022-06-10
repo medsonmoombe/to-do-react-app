@@ -6,4 +6,4 @@ const NotMatch = () => (
   </div>
 );
 
-export default NotMatch
+export default NotMatch;
